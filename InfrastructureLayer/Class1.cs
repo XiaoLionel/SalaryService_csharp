@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DomainLayer
+namespace InfrastructureLayer
 {
     public class Class1
     {

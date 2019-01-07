@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="DomainLayer">
+      <HintPath>..\..\..\..\ProjectManager\DomainLayer_csharp\DomainLayer\bin\Release\netcoreapp2.0\DomainLayer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
